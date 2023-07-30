@@ -1,4 +1,4 @@
-# juubix-frontend
+# JUUBIX-frontend
 <a name="readme-top"></a>
 <div align="center">
   <img src="./src/asset/White%20Minimalist%20Profile%20LinkedIn%20Banner.png"/>
@@ -83,11 +83,7 @@ To run the project on the html file run it through liveserver.
 
 ### Deployment
 You can Check the page 
-<a href="https://www.loom.com/share/dfb599ec605b4dd285c94845543bd873">HERE</a>
-
-
-
-
+<a href="https://juubix-frontend.onrender.com">HERE</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
