@@ -124,6 +124,14 @@ body {
   .word-waves span{
     font-size: 2rem;
   }
+
+  .login-container {
+    margin-top: 20%;
+  }
+
+  .login-inner {
+    margin-top: 20%;
+  }
 }
 
 @media (max-width: 365px) {
